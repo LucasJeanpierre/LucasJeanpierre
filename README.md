@@ -19,8 +19,8 @@ Hey there! 👋 I'm Lucas Jeanpierre, a passionate software engineering student 
 
 Feel free to explore my GitHub repositories, where you'll find a variety of personal projects and experiments, ranging from web development to algorithmic challenges.
 
-GitHub: [github.com/LucasJeanpierre](https://github.com/LucasJeanpierre)
-Email: [lucas.jeanpierre05@gmail.com](mailto:lucas.jeanpierre05@gmail.com)
+##### GitHub: [github.com/LucasJeanpierre](https://github.com/LucasJeanpierre)
+##### Email: [lucas.jeanpierre05@gmail.com](mailto:lucas.jeanpierre05@gmail.com)
 
 
 <!--
