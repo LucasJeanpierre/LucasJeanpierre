@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm Lucas Jeanpierre, a passionate software engineering student with a love for coding, puzzles, and cybersecurity. I started my coding journey at the young age of 15 and have been immersed in it ever since.
+Hey there! 👋 I'm Lucas Jeanpierre, a passionate software engineering student with a love for coding, puzzles, and cybersecurity. I started my coding journey at the age of 15 and have been immersed in it ever since.
 
 ## Education
 
